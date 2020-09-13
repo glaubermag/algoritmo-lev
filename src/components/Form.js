@@ -53,8 +53,8 @@ export default function App() {
     </form>
 
 <footer> <small> Desenvolvido por Glauber Magalhães              
-  <a href="https://www.linkedin.com/in/glauberarielmagalhaes/" target="_blank">            <img src={Linked} alt="Linkedin" className="rodape"/> </a>
-  <a href="https://github.com/glaubermag/" target="_blank">            <img src={GitHub} alt="GitHub" className="rodape" /> </a>
+  <a href="https://www.linkedin.com/in/glauberarielmagalhaes/" target="_blank" rel="noopener noreferrer">            <img src={Linked} alt="Linkedin" className="rodape"/> </a>
+  <a href="https://github.com/glaubermag/" target="_blank" rel="noopener noreferrer">            <img src={GitHub} alt="GitHub" className="rodape" /> </a>
 </small>
 
 </footer>
