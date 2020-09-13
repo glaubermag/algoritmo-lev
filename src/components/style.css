@@ -1,26 +1,53 @@
 .form-custom {
 
     background-color: indigo;
-    color: white;
+    color: black;
     font-size: 20px;
     padding-bottom: 1em;
+    padding-top: 2em;
+    background-color: rgba(255, 255, 255, 0.5);
+
 }
 
-body {
-    background-color: #e3e3e3;
+.p-result {
+    font-weight: bold;
+}
+
+.rodape {
+    max-width: 40px;
+    color: white;
+    margin: 0.20em;
 }
 .paragrafo {
-    margin: 2em;
+
+    max-width: 80%;
+        padding-top: 2em;
+        background-color: rgba(255, 255, 255, 0.5);
+    margin:auto;
+
 }
 
+.bg-custom { 
+
+    background-color:indigo;
+    color: white;
+    text-align: center; }
+
+    
+
+
 input {
+
 margin-top: 1em;
 margin-bottom: 1em;
-margin-left: 1em;
+max-width: 80%;
+margin-left: 10%;
+border: 2px solid #000;
 }
 
 footer {
     padding-top: 2em;
+    
     padding-bottom: 2em;
     color: white;
     background-color: indigo;
